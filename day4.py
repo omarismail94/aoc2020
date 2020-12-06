@@ -1,5 +1,4 @@
 must_keys = {"byr","iyr", "eyr","hgt", "hcl","ecl","pid"}
-optional_key = {"cid"}
 eye_see = {"amb", "blu", "brn", "gry", "grn", "hzl", "oth"}
 
 
